@@ -1,0 +1,110 @@
+[
+  {
+    "id": "temple",
+    "name": {
+      "th": "วัดและศาสนสถาน",
+      "en": "Temple & Cultural",
+      "zh": "寺庙与文化"
+    },
+    "icon": "Church"
+  },
+  {
+    "id": "nature",
+    "name": {
+      "th": "ธรรมชาติและอุทยาน",
+      "en": "Nature & Parks",
+      "zh": "自然与国家公园"
+    },
+    "icon": "Trees"
+  },
+  {
+    "id": "beach",
+    "name": {
+      "th": "ทะเลและชายหาด",
+      "en": "Beach & Coast",
+      "zh": "海滩与海滨"
+    },
+    "icon": "Palmtree"
+  },
+  {
+    "id": "island",
+    "name": {
+      "th": "เกาะและหมู่เกาะ",
+      "en": "Islands & Archipelagos",
+      "zh": "海岛与群岛"
+    },
+    "icon": "Compass"
+  },
+  {
+    "id": "historical",
+    "name": {
+      "th": "โบราณสถานและประวัติศาสตร์",
+      "en": "Historical & Heritage",
+      "zh": "历史古迹与遗产"
+    },
+    "icon": "Landmark"
+  },
+  {
+    "id": "landmark",
+    "name": {
+      "th": "แลนด์มาร์กและอนุสรณ์",
+      "en": "Landmarks & Monuments",
+      "zh": "地标与名胜"
+    },
+    "icon": "MapPin"
+  },
+  {
+    "id": "market",
+    "name": {
+      "th": "ตลาดและถนนคนเดิน",
+      "en": "Market & Street Food",
+      "zh": "集市与夜市"
+    },
+    "icon": "ShoppingBag"
+  },
+  {
+    "id": "town",
+    "name": {
+      "th": "เมืองและชุมชน",
+      "en": "Towns & Villages",
+      "zh": "城镇与村落"
+    },
+    "icon": "Home"
+  },
+  {
+    "id": "shrine",
+    "name": {
+      "th": "ศาลเจ้าและสิ่งศักดิ์สิทธิ์",
+      "en": "Shrines & Spiritual",
+      "zh": "神龛与圣地"
+    },
+    "icon": "Sparkles"
+  },
+  {
+    "id": "mountain",
+    "name": {
+      "th": "ภูเขาและดอย",
+      "en": "Mountain & Peaks",
+      "zh": "山峰与高原"
+    },
+    "icon": "Mountain"
+  },
+  {
+    "id": "waterfall",
+    "name": {
+      "th": "น้ำตก",
+      "en": "Waterfall",
+      "zh": "瀑布"
+    },
+    "icon": "Waves"
+  },
+  {
+    "id": "museum",
+    "name": {
+      "th": "พิพิธภัณฑ์",
+      "en": "Museum",
+      "zh": "博物馆"
+    },
+    "icon": "Landmark"
+  }
+]

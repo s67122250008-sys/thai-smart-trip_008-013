@@ -1,0 +1,602 @@
+[
+  {
+    "id": "doi-suthep",
+    "name": { "th": "วัดพระธาตุดอยสุเทพ", "en": "Wat Phra That Doi Suthep", "zh": "素贴寺" },
+    "province": "chiang-mai",
+    "region": "north",
+    "category": "temple",
+    "description": {
+      "th": "วัดสำคัญคู่เมืองเชียงใหม่ ตั้งอยู่บนดอยสุเทพ มองเห็นวิวเมืองเชียงใหม่ได้ทั้งเมือง",
+      "en": "A famous temple located on Doi Suthep mountain overlooking Chiang Mai city.",
+      "zh": "位于清迈素贴山上的著名寺庙，可俯瞰整个清迈市。"
+    },
+    "image": "/image/destinations/doi-suthep.jpg",
+    "rating": 4.8,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Phra+That+Doi+Suthep+Chiang+Mai"
+  },
+  {
+    "id": "wat-rong-khun",
+    "name": { "th": "วัดร่องขุ่น (วัดขาว)", "en": "Wat Rong Khun (White Temple)", "zh": "白庙" },
+    "province": "chiang-rai",
+    "region": "north",
+    "category": "temple",
+    "description": {
+      "th": "วัดสีขาวสุดวิจิตรที่ออกแบบโดยอาจารย์เฉลิมชัย โฆษิตพิพัฒน์ เป็นแลนด์มาร์กของเชียงราย",
+      "en": "An ornate white temple designed by artist Chalermchai Kositpipat, a landmark of Chiang Rai.",
+      "zh": "由艺术家查伦猜设计的精美白色寺庙，是清莱的地标。"
+    },
+    "image": "/image/destinations/wat-rong-khun.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Rong+Khun+White+Temple+Chiang+Rai"
+  },
+  {
+    "id": "wat-phra-singh",
+    "name": { "th": "วัดพระสิงห์", "en": "Wat Phra Singh", "zh": "帕辛寺" },
+    "province": "chiang-mai",
+    "region": "north",
+    "category": "temple",
+    "description": {
+      "th": "วัดเก่าแก่กลางเมืองเชียงใหม่ ประดิษฐานพระพุทธสิหิงค์อันศักดิ์สิทธิ์",
+      "en": "A historic temple in the heart of Chiang Mai, home to the revered Phra Singh Buddha image.",
+      "zh": "位于清迈市中心的古老寺庙，供奉着神圣的帕辛佛像。"
+    },
+    "image": "/image/destinations/wat-phra-singh.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Phra+Singh+Chiang+Mai"
+  },
+  {
+    "id": "doi-inthanon",
+    "name": { "th": "ดอยอินทนนท์", "en": "Doi Inthanon National Park", "zh": "因他暖山国家公园" },
+    "province": "chiang-mai",
+    "region": "north",
+    "category": "nature",
+    "description": {
+      "th": "จุดสูงสุดของประเทศไทย มีอากาศเย็นสบายตลอดปี พร้อมน้ำตกและเส้นทางเดินป่า",
+      "en": "The highest point in Thailand, with cool weather year-round, waterfalls, and hiking trails.",
+      "zh": "泰国最高点，全年气候凉爽，有瀑布和徒步小径。"
+    },
+    "image": "/image/destinations/doi-inthanon.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Doi+Inthanon+National+Park"
+  },
+  {
+    "id": "pai",
+    "name": { "th": "ปาย", "en": "Pai", "zh": "拜县" },
+    "province": "mae-hong-son",
+    "region": "north",
+    "category": "town",
+    "description": {
+      "th": "เมืองเล็กๆ ท่ามกลางขุนเขา บรรยากาศสงบ เหมาะกับการพักผ่อนและถ่ายรูป",
+      "en": "A small mountain town known for its relaxed atmosphere, scenic views, and cafes.",
+      "zh": "群山环绕的小镇，氛围悠闲，适合放松和拍照。"
+    },
+    "image": "/image/destinations/pai.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai+Mae+Hong+Son"
+  },
+  {
+    "id": "sukhothai-historical-park",
+    "name": { "th": "อุทยานประวัติศาสตร์สุโขทัย", "en": "Sukhothai Historical Park", "zh": "素可泰历史公园" },
+    "province": "sukhothai",
+    "region": "north",
+    "category": "historical",
+    "description": {
+      "th": "มรดกโลกยูเนสโก ซากเมืองหลวงเก่าแห่งแรกของไทย เต็มไปด้วยซากปรักหักพังโบราณ",
+      "en": "A UNESCO World Heritage Site featuring the ruins of Thailand's first capital.",
+      "zh": "联合国教科文组织世界遗产，泰国第一个首都的遗址。"
+    },
+    "image": "/image/destinations/sukhothai-historical-park.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukhothai+Historical+Park"
+  },
+  {
+    "id": "golden-triangle",
+    "name": { "th": "สามเหลี่ยมทองคำ", "en": "Golden Triangle", "zh": "金三角" },
+    "province": "chiang-rai",
+    "region": "north",
+    "category": "landmark",
+    "description": {
+      "th": "จุดบรรจบของแม่น้ำโขงและแม่น้ำรวก พรมแดนไทย ลาว และเมียนมา",
+      "en": "The meeting point of the Mekong and Ruak rivers, where Thailand, Laos, and Myanmar borders converge.",
+      "zh": "湄公河与柔河交汇处，泰国、老挝和缅甸三国边境交界地。"
+    },
+    "image": "/image/destinations/golden-triangle.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden+Triangle+Chiang+Rai"
+  },
+  {
+    "id": "wat-phra-that-lampang-luang",
+    "name": { "th": "วัดพระธาตุลำปางหลวง", "en": "Wat Phra That Lampang Luang", "zh": "南邦龙寺" },
+    "province": "lampang",
+    "region": "north",
+    "category": "temple",
+    "description": {
+      "th": "วัดไม้โบราณที่งดงามและสมบูรณ์ที่สุดแห่งหนึ่งของล้านนา",
+      "en": "One of the most beautiful and well-preserved ancient Lanna-style temples.",
+      "zh": "兰纳风格保存最完好的古老寺庙之一，建筑精美。"
+    },
+    "image": "/image/destinations/wat-phra-that-lampang-luang.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Phra+That+Lampang+Luang"
+  },
+  {
+    "id": "chiang-mai-night-bazaar",
+    "name": { "th": "ไนท์บาซาร์เชียงใหม่", "en": "Chiang Mai Night Bazaar", "zh": "清迈夜市" },
+    "province": "chiang-mai",
+    "region": "north",
+    "category": "market",
+    "description": {
+      "th": "ตลาดกลางคืนชื่อดัง แหล่งช้อปปิ้งของฝากและอาหารพื้นเมือง",
+      "en": "A famous night market offering souvenirs, handicrafts, and local street food.",
+      "zh": "著名的夜市，出售纪念品、手工艺品和当地小吃。"
+    },
+    "image": "/image/destinations/chiang-mai-night-bazaar.jpg",
+    "rating": 4.4,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang+Mai+Night+Bazaar"
+  },
+  {
+    "id": "wat-phra-that-chae-haeng",
+    "name": { "th": "วัดพระธาตุแช่แห้ง", "en": "Wat Phra That Chae Haeng", "zh": "帕塔猜黑寺" },
+    "province": "nan",
+    "region": "north",
+    "category": "temple",
+    "description": {
+      "th": "วัดคู่บ้านคู่เมืองน่าน สถาปัตยกรรมล้านนาผสมสุโขทัยอันงดงาม",
+      "en": "A revered temple in Nan, blending Lanna and Sukhothai architectural styles.",
+      "zh": "南邦知名寺庙，融合兰纳与素可泰建筑风格。"
+    },
+    "image": "/image/destinations/wat-phra-that-chae-haeng.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Phra+That+Chae+Haeng+Nan"
+  },
+  {
+    "id": "grand-palace",
+    "name": { "th": "พระบรมมหาราชวัง", "en": "Grand Palace", "zh": "大皇宫" },
+    "province": "bangkok",
+    "region": "central",
+    "category": "landmark",
+    "description": {
+      "th": "อดีตที่ประทับของพระมหากษัตริย์ไทย สถาปัตยกรรมวิจิตรตระการตา สถานที่ท่องเที่ยวยอดนิยมของกรุงเทพฯ",
+      "en": "The former royal residence, famed for its ornate architecture and one of Bangkok's top attractions.",
+      "zh": "泰国国王的旧居，建筑华丽精美，是曼谷最热门的景点之一。"
+    },
+    "image": "/image/destinations/grand-palace.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Palace+Bangkok"
+  },
+  {
+    "id": "wat-arun",
+    "name": { "th": "วัดอรุณราชวราราม", "en": "Wat Arun (Temple of Dawn)", "zh": "郑王庙（黎明寺）" },
+    "province": "bangkok",
+    "region": "central",
+    "category": "temple",
+    "description": {
+      "th": "วัดริมแม่น้ำเจ้าพระยาที่มีพระปรางค์สูงตระหง่าน สวยงามโดยเฉพาะยามพระอาทิตย์ตก",
+      "en": "A riverside temple with a towering spire, especially stunning at sunset.",
+      "zh": "湄南河畔寺庙，高塔耸立，日落时分景色尤其迷人。"
+    },
+    "image": "/image/destinations/wat-arun.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Arun+Bangkok"
+  },
+  {
+    "id": "wat-pho",
+    "name": { "th": "วัดโพธิ์", "en": "Wat Pho", "zh": "卧佛寺" },
+    "province": "bangkok",
+    "region": "central",
+    "category": "temple",
+    "description": {
+      "th": "วัดที่ประดิษฐานพระพุทธไสยาสน์องค์ใหญ่ และเป็นแหล่งกำเนิดวิชานวดแผนไทย",
+      "en": "Home to the giant Reclining Buddha and the birthplace of traditional Thai massage.",
+      "zh": "供奉巨大卧佛，也是泰式按摩的发源地。"
+    },
+    "image": "/image/destinations/wat-pho.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Pho+Bangkok"
+  },
+  {
+    "id": "ayutthaya-historical-park",
+    "name": { "th": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา", "en": "Ayutthaya Historical Park", "zh": "大城历史公园" },
+    "province": "ayutthaya",
+    "region": "central",
+    "category": "historical",
+    "description": {
+      "th": "มรดกโลกยูเนสโก ซากปรักหักพังของอดีตราชธานีอันรุ่งเรืองของสยาม",
+      "en": "A UNESCO World Heritage Site with the ruins of Siam's former glorious capital.",
+      "zh": "联合国教科文组织世界遗产，泰国古都遗址。"
+    },
+    "image": "/image/destinations/ayutthaya-historical-park.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ayutthaya+Historical+Park"
+  },
+  {
+    "id": "damnoen-saduak",
+    "name": { "th": "ตลาดน้ำดำเนินสะดวก", "en": "Damnoen Saduak Floating Market", "zh": "丹嫩沙多水上市场" },
+    "province": "ratchaburi",
+    "region": "central",
+    "category": "market",
+    "description": {
+      "th": "ตลาดน้ำที่มีชื่อเสียงที่สุดของไทย พ่อค้าแม่ค้าพายเรือขายผลไม้และอาหารกลางคลอง",
+      "en": "Thailand's most famous floating market, with vendors selling fruit and food from boats.",
+      "zh": "泰国最著名的水上市场，商贩划船售卖水果和美食。"
+    },
+    "image": "/image/destinations/damnoen-saduak.jpg",
+    "rating": 4.4,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Damnoen+Saduak+Floating+Market"
+  },
+  {
+    "id": "amphawa-floating-market",
+    "name": { "th": "ตลาดน้ำอัมพวา", "en": "Amphawa Floating Market", "zh": "安帕瓦水上市场" },
+    "province": "samut-songkhram",
+    "region": "central",
+    "category": "market",
+    "description": {
+      "th": "ตลาดน้ำยามเย็นริมคลอง ชิมอาหารทะเลสดและชมหิ่งห้อยยามค่ำคืน",
+      "en": "An evening canal-side market known for fresh seafood and firefly-watching boat trips.",
+      "zh": "傍晚运河边市场，可品尝新鲜海鲜并乘船观赏萤火虫。"
+    },
+    "image": "/image/destinations/amphawa-floating-market.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amphawa+Floating+Market"
+  },
+  {
+    "id": "chatuchak-market",
+    "name": { "th": "ตลาดนัดจตุจักร", "en": "Chatuchak Weekend Market", "zh": "恰图恰周末市场" },
+    "province": "bangkok",
+    "region": "central",
+    "category": "market",
+    "description": {
+      "th": "ตลาดนัดสุดสัปดาห์ที่ใหญ่ที่สุดในโลกแห่งหนึ่ง มีสินค้ากว่า 15,000 ร้านค้า",
+      "en": "One of the world's largest weekend markets, with over 15,000 stalls selling everything imaginable.",
+      "zh": "全球最大的周末市场之一，拥有超过15000个摊位。"
+    },
+    "image": "/image/destinations/chatuchak-market.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chatuchak+Weekend+Market"
+  },
+  {
+    "id": "erawan-shrine",
+    "name": { "th": "ศาลท้าวมหาพรหม เอราวัณ", "en": "Erawan Shrine", "zh": "四面佛" },
+    "province": "bangkok",
+    "region": "central",
+    "category": "shrine",
+    "description": {
+      "th": "ศาลพระพรหมกลางกรุงเทพฯ ที่ผู้คนนิยมมาขอพรและชมการรำถวาย",
+      "en": "A Hindu shrine in central Bangkok, popular for prayers and traditional dance offerings.",
+      "zh": "曼谷市中心的印度教神龛，人们常来祈福并观看传统献舞。"
+    },
+    "image": "/image/destinations/erawan-shrine.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Erawan+Shrine+Bangkok"
+  },
+  {
+    "id": "bang-pa-in-palace",
+    "name": { "th": "พระราชวังบางปะอิน", "en": "Bang Pa-In Palace", "zh": "邦芭茵夏宫" },
+    "province": "ayutthaya",
+    "region": "central",
+    "category": "landmark",
+    "description": {
+      "th": "พระราชวังฤดูร้อนของราชวงศ์ไทย ผสมผสานสถาปัตยกรรมไทย จีน และยุโรป",
+      "en": "The royal summer palace featuring a striking blend of Thai, Chinese, and European architecture.",
+      "zh": "泰国王室夏宫，融合泰式、中式和欧式建筑风格。"
+    },
+    "image": "/image/destinations/bang-pa-in-palace.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bang+Pa-In+Palace"
+  },
+  {
+    "id": "wat-traimit",
+    "name": { "th": "วัดไตรมิตรวิทยาราม", "en": "Wat Traimit (Golden Buddha)", "zh": "金佛寺" },
+    "province": "bangkok",
+    "region": "central",
+    "category": "temple",
+    "description": {
+      "th": "วัดที่ประดิษฐานพระพุทธรูปทองคำแท้องค์ใหญ่ที่สุดในโลก",
+      "en": "Home to the world's largest solid gold Buddha statue.",
+      "zh": "供奉世界上最大的纯金佛像。"
+    },
+    "image": "/image/destinations/wat-traimit.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Traimit+Golden+Buddha+Bangkok"
+  },
+  {
+    "id": "phanom-rung",
+    "name": { "th": "อุทยานประวัติศาสตร์พนมรุ้ง", "en": "Phanom Rung Historical Park", "zh": "帕侬蓝历史公园" },
+    "province": "buriram",
+    "region": "northeast",
+    "category": "historical",
+    "description": {
+      "th": "ปราสาทหินเขมรโบราณบนยอดภูเขาไฟดับ สถาปัตยกรรมงดงามที่สุดแห่งหนึ่งของไทย",
+      "en": "An ancient Khmer stone castle atop an extinct volcano, one of Thailand's most stunning ruins.",
+      "zh": "建于死火山顶的古高棉石堡，是泰国最壮观的古迹之一。"
+    },
+    "image": "/image/destinations/phanom-rung.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phanom+Rung+Historical+Park"
+  },
+  {
+    "id": "prasat-hin-phimai",
+    "name": { "th": "ปราสาทหินพิมาย", "en": "Prasat Hin Phimai", "zh": "披迈石宫" },
+    "province": "nakhon-ratchasima",
+    "region": "northeast",
+    "category": "historical",
+    "description": {
+      "th": "หนึ่งในปราสาทหินขอมที่ใหญ่ที่สุดในประเทศไทย สร้างขึ้นก่อนนครวัด",
+      "en": "One of the largest Khmer stone temple complexes in Thailand, predating Angkor Wat.",
+      "zh": "泰国最大的高棉石庙群之一，建造年代早于吴哥窟。"
+    },
+    "image": "/image/destinations/prasat-hin-phimai.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prasat+Hin+Phimai"
+  },
+  {
+    "id": "phu-kradueng",
+    "name": { "th": "อุทยานแห่งชาติภูกระดึง", "en": "Phu Kradueng National Park", "zh": "普贵敦国家公园" },
+    "province": "loei",
+    "region": "northeast",
+    "category": "nature",
+    "description": {
+      "th": "ภูเขาที่ราบสูงยอดฮิตสำหรับนักเดินป่า อากาศเย็นสบายและวิวทิวทัศน์งดงาม",
+      "en": "A popular plateau mountain for hikers, known for cool weather and scenic views.",
+      "zh": "备受徒步爱好者喜爱的高原山地，气候凉爽，景色优美。"
+    },
+    "image": "/image/destinations/phu-kradueng.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu+Kradueng+National+Park"
+  },
+  {
+    "id": "khao-yai",
+    "name": { "th": "อุทยานแห่งชาติเขาใหญ่", "en": "Khao Yai National Park", "zh": "考艾国家公园" },
+    "province": "nakhon-ratchasima",
+    "region": "northeast",
+    "category": "nature",
+    "description": {
+      "th": "มรดกโลกยูเนสโก ผืนป่าอุดมสมบูรณ์ แหล่งที่อยู่ของช้างป่าและสัตว์ป่านานาชนิด",
+      "en": "A UNESCO World Heritage forest, home to wild elephants and diverse wildlife.",
+      "zh": "联合国教科文组织世界遗产森林，是野生大象及多种野生动物的栖息地。"
+    },
+    "image": "/image/destinations/khao-yai.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao+Yai+National+Park"
+  },
+  {
+    "id": "ban-chiang",
+    "name": { "th": "แหล่งโบราณคดีบ้านเชียง", "en": "Ban Chiang Archaeological Site", "zh": "班清考古遗址" },
+    "province": "udon-thani",
+    "region": "northeast",
+    "category": "historical",
+    "description": {
+      "th": "มรดกโลกยูเนสโก แหล่งอารยธรรมยุคก่อนประวัติศาสตร์ที่เก่าแก่ที่สุดแห่งหนึ่งในเอเชียตะวันออกเฉียงใต้",
+      "en": "A UNESCO World Heritage Site and one of Southeast Asia's oldest prehistoric civilizations.",
+      "zh": "联合国教科文组织世界遗产，东南亚最古老的史前文明遗址之一。"
+    },
+    "image": "/image/destinations/ban-chiang.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban+Chiang+Archaeological+Site"
+  },
+  {
+    "id": "wat-phra-that-phanom",
+    "name": { "th": "วัดพระธาตุพนม", "en": "Wat Phra That Phanom", "zh": "帕塔奔寺" },
+    "province": "nakhon-phanom",
+    "region": "northeast",
+    "category": "temple",
+    "description": {
+      "th": "พระธาตุศักดิ์สิทธิ์คู่บ้านคู่เมือง เป็นที่เคารพนับถือของชาวอีสานและลาว",
+      "en": "A sacred stupa deeply revered by people of Isan and Laos.",
+      "zh": "受伊善地区和老挝人民尊崇的神圣佛塔。"
+    },
+    "image": "/image/destinations/wat-phra-that-phanom.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Phra+That+Phanom"
+  },
+  {
+    "id": "pha-taem",
+    "name": { "th": "อุทยานแห่งชาติผาแต้ม", "en": "Pha Taem National Park", "zh": "帕天国家公园" },
+    "province": "ubon-ratchathani",
+    "region": "northeast",
+    "category": "nature",
+    "description": {
+      "th": "หน้าผาสูงริมแม่น้ำโขงพร้อมภาพเขียนสีโบราณอายุกว่า 3,000 ปี",
+      "en": "A high cliff along the Mekong River featuring prehistoric rock paintings over 3,000 years old.",
+      "zh": "湄公河畔悬崖，有3000多年历史的史前岩画。"
+    },
+    "image": "/image/destinations/pha-taem.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pha+Taem+National+Park"
+  },
+  {
+    "id": "sam-phan-bok",
+    "name": { "th": "สามพันโบก", "en": "Sam Phan Bok", "zh": "三千孔" },
+    "province": "ubon-ratchathani",
+    "region": "northeast",
+    "category": "nature",
+    "description": {
+      "th": "แกรนด์แคนยอนแห่งแม่น้ำโขง หินทรายรูปทรงแปลกตาที่ปรากฏในฤดูแล้ง",
+      "en": "Known as the Mekong's Grand Canyon, with unique sandstone formations visible in the dry season.",
+      "zh": "被称为湄公河大峡谷，旱季时呈现出奇特的砂岩地貌。"
+    },
+    "image": "/image/destinations/sam-phan-bok.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sam+Phan+Bok+Ubon+Ratchathani"
+  },
+  {
+    "id": "wat-sirindhorn-wararam",
+    "name": { "th": "วัดสิรินธรวรารามภูพร้าว", "en": "Wat Sirindhorn Wararam Phu Prao", "zh": "普堡光辉寺" },
+    "province": "ubon-ratchathani",
+    "region": "northeast",
+    "category": "temple",
+    "description": {
+      "th": "วัดที่มีต้นไม้เรืองแสงยามค่ำคืน จากสีเรืองแสงพิเศษบนผนังอุโบสถ",
+      "en": "A temple famous for its glow-in-the-dark tree mural that shines at night.",
+      "zh": "以夜间发光的荧光树壁画而闻名的寺庙。"
+    },
+    "image": "/image/destinations/wat-sirindhorn-wararam.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Sirindhorn+Wararam+Phu+Prao"
+  },
+  {
+    "id": "sala-kaew-ku",
+    "name": { "th": "สาลาแก้วกู่", "en": "Sala Kaew Ku", "zh": "萨拉玻璃古" },
+    "province": "nong-khai",
+    "region": "northeast",
+    "category": "landmark",
+    "description": {
+      "th": "สวนประติมากรรมปูนปั้นขนาดใหญ่ผสมผสานความเชื่อพุทธและฮินดูริมแม่น้ำโขง",
+      "en": "A striking sculpture park along the Mekong River blending Buddhist and Hindu imagery.",
+      "zh": "湄公河畔的雕塑公园，融合佛教与印度教元素。"
+    },
+    "image": "/image/destinations/sala-kaew-ku.jpg",
+    "rating": 4.4,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sala+Kaew+Ku+Nong+Khai"
+  },
+  {
+    "id": "phi-phi-islands",
+    "name": { "th": "หมู่เกาะพีพี", "en": "Phi Phi Islands", "zh": "披披岛" },
+    "province": "krabi",
+    "region": "south",
+    "category": "island",
+    "description": {
+      "th": "หมู่เกาะสวรรค์ทะเลอันดามัน น้ำทะเลใสสีเทอร์ควอยซ์และหน้าผาหินปูนตระการตา",
+      "en": "A tropical island paradise in the Andaman Sea, famous for turquoise water and limestone cliffs.",
+      "zh": "安达曼海的热带岛屿天堂，以碧绿海水和石灰岩悬崖闻名。"
+    },
+    "image": "/image/destinations/phi-phi-islands.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phi+Phi+Islands"
+  },
+  {
+    "id": "railay-beach",
+    "name": { "th": "หาดไร่เลย์", "en": "Railay Beach", "zh": "莱利海滩" },
+    "province": "krabi",
+    "region": "south",
+    "category": "beach",
+    "description": {
+      "th": "หาดสวยล้อมรอบด้วยหน้าผาหินปูนสูงชัน แหล่งปีนผาชื่อดังระดับโลก",
+      "en": "A stunning beach surrounded by dramatic limestone cliffs, world-renowned for rock climbing.",
+      "zh": "被高耸石灰岩悬崖环绕的美丽海滩，是世界知名的攀岩胜地。"
+    },
+    "image": "/image/destinations/railay-beach.jpg",
+    "rating": 4.7,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Railay+Beach+Krabi"
+  },
+  {
+    "id": "phang-nga-bay",
+    "name": { "th": "อ่าวพังงา (เกาะเจมส์บอนด์)", "en": "Phang Nga Bay (James Bond Island)", "zh": "攀牙湾（007岛）" },
+    "province": "phang-nga",
+    "region": "south",
+    "category": "landmark",
+    "description": {
+      "th": "อ่าวทะเลที่มีเกาะหินปูนตั้งตระหง่านกลางน้ำ โด่งดังจากภาพยนตร์เจมส์บอนด์",
+      "en": "A bay dotted with towering limestone islets, made famous by a James Bond film.",
+      "zh": "布满高耸石灰岩小岛的海湾，因007电影而闻名。"
+    },
+    "image": "/image/destinations/phang-nga-bay.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phang+Nga+Bay+James+Bond+Island"
+  },
+  {
+    "id": "similan-islands",
+    "name": { "th": "หมู่เกาะสิมิลัน", "en": "Similan Islands", "zh": "斯米兰群岛" },
+    "province": "phang-nga",
+    "region": "south",
+    "category": "island",
+    "description": {
+      "th": "หมู่เกาะที่มีแนวปะการังสวยงามที่สุดแห่งหนึ่งของโลก เหมาะกับการดำน้ำ",
+      "en": "An island chain with some of the world's most beautiful coral reefs, ideal for diving.",
+      "zh": "拥有世界上最美丽珊瑚礁之一的岛链，是潜水胜地。"
+    },
+    "image": "/image/destinations/similan-islands.jpg",
+    "rating": 4.8,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Similan+Islands"
+  },
+  {
+    "id": "big-buddha-phuket",
+    "name": { "th": "พระใหญ่ภูเก็ต", "en": "Big Buddha Phuket", "zh": "普吉大佛" },
+    "province": "phuket",
+    "region": "south",
+    "category": "landmark",
+    "description": {
+      "th": "พระพุทธรูปหินอ่อนขนาดใหญ่บนยอดเขา มองเห็นวิวเกาะภูเก็ตแบบพาโนรามา",
+      "en": "A massive marble Buddha statue atop a hill, offering panoramic views of Phuket.",
+      "zh": "山顶巨型大理石佛像，可俯瞰普吉岛全景。"
+    },
+    "image": "/image/destinations/big-buddha-phuket.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Big+Buddha+Phuket"
+  },
+  {
+    "id": "wat-chalong",
+    "name": { "th": "วัดฉลอง", "en": "Wat Chalong", "zh": "查龙寺" },
+    "province": "phuket",
+    "region": "south",
+    "category": "temple",
+    "description": {
+      "th": "วัดที่ใหญ่และสำคัญที่สุดในภูเก็ต เป็นที่เคารพศรัทธาของชาวเกาะ",
+      "en": "The largest and most important temple in Phuket, deeply revered by locals.",
+      "zh": "普吉岛最大、最重要的寺庙，深受当地人尊崇。"
+    },
+    "image": "/image/destinations/wat-chalong.jpg",
+    "rating": 4.5,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Chalong+Phuket"
+  },
+  {
+    "id": "patong-beach",
+    "name": { "th": "หาดป่าตอง", "en": "Patong Beach", "zh": "芭东海滩" },
+    "province": "phuket",
+    "region": "south",
+    "category": "beach",
+    "description": {
+      "th": "หาดที่คึกคักที่สุดในภูเก็ต เต็มไปด้วยกิจกรรมทางน้ำ ร้านค้า และไนต์ไลฟ์",
+      "en": "Phuket's liveliest beach, packed with water activities, shopping, and nightlife.",
+      "zh": "普吉岛最热闹的海滩，水上活动、购物和夜生活一应俱全。"
+    },
+    "image": "/image/destinations/patong-beach.jpg",
+    "rating": 4.3,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Patong+Beach+Phuket"
+  },
+  {
+    "id": "koh-samui",
+    "name": { "th": "เกาะสมุย", "en": "Koh Samui", "zh": "苏梅岛" },
+    "province": "surat-thani",
+    "region": "south",
+    "category": "island",
+    "description": {
+      "th": "เกาะพักผ่อนยอดนิยม มีหาดทรายขาว สวนมะพร้าว และรีสอร์ตหรู",
+      "en": "A popular resort island with white sand beaches, coconut groves, and luxury resorts.",
+      "zh": "热门度假岛屿，拥有白沙滩、椰林和豪华度假村。"
+    },
+    "image": "/image/destinations/koh-samui.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh+Samui"
+  },
+  {
+    "id": "ang-thong-marine-park",
+    "name": { "th": "อุทยานแห่งชาติหมู่เกาะอ่างทอง", "en": "Ang Thong National Marine Park", "zh": "昂通国家海洋公园" },
+    "province": "surat-thani",
+    "region": "south",
+    "category": "nature",
+    "description": {
+      "th": "หมู่เกาะหินปูนกว่า 40 เกาะ พร้อมทะเลสาบใน (ทะเลใน) ที่สวยงามบนเกาะแม่เกาะ",
+      "en": "An archipelago of over 40 limestone islands, featuring a stunning inland lagoon.",
+      "zh": "由40多个石灰岩小岛组成的群岛，拥有美丽的内陆泻湖。"
+    },
+    "image": "/image/destinations/ang-thong-marine-park.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ang+Thong+National+Marine+Park"
+  },
+  {
+    "id": "tarutao-national-park",
+    "name": { "th": "อุทยานแห่งชาติตะรุเตา", "en": "Tarutao National Park", "zh": "达鲁陶国家公园" },
+    "province": "satun",
+    "region": "south",
+    "category": "nature",
+    "description": {
+      "th": "หมู่เกาะธรรมชาติบริสุทธิ์ในทะเลอันดามัน เหมาะกับผู้รักธรรมชาติและดำน้ำตื้น",
+      "en": "A pristine island group in the Andaman Sea, ideal for nature lovers and snorkeling.",
+      "zh": "安达曼海中未受破坏的原始岛群，适合自然爱好者和浮潜。"
+    },
+    "image": "/image/destinations/tarutao-national-park.jpg",
+    "rating": 4.6,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tarutao+National+Park"
+  }
+]

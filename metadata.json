@@ -1,0 +1,6 @@
+{
+  "name": "Thai Smart Trip",
+  "description": "Modern Thai travel application for discovering destinations, categories, provinces, user reviews, and favorites with multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
